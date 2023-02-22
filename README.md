@@ -17,21 +17,22 @@
 - Python with Pandas and scikit-learn libraries to create a machine learning model
 
 ## Results
-    - Here are some examples of code used during the clean and transform process to obtain the following table.
-    ![This is an image](Images/clean_team_dataset.png)
+- Here are some examples of code used during the clean and transform process to obtain the following table.
+![This is an image](Images/clean_team_dataset.png)
 
-    - Below we see strong, evenly spaced correlation for the defense metric.
-    - Also, weak to negative correlation going from three to four wins among the other three metrics
-    ![This is an image](Images/wins_vs_metrics.png)
+- Below we see strong, evenly spaced correlation for the defense metric.
+- Also, weak to negative correlation going from three to four wins among the other three metrics
+![This is an image](Images/wins_vs_metrics.png)
 
-    - Here, we are able to see individual data points and outliers from the Gantt charts.
-    ![This is an image](Images/gantt_charts.png)
+- Here, we are able to see individual data points and outliers from the Gantt charts.
+![This is an image](Images/gantt_charts.png)
 
-    - The following three logistic regression models were created to determine if the defensive metric had a more significant impact on results. There was no difference in the results of the three models:
-        - One with all the inputs
-        - One without the defensive metric
-        - One without the offensive metric
-    ![This is an image](Images/machine_learning_output.png)
+- The following three logistic regression models were created to determine if the defensive metric had a more significant impact on results. 
+There was no difference in the results of the three models:
+    - One with all the inputs
+    - One without the defensive metric
+    - One without the offensive metric
+![This is an image](Images/machine_learning_output.png)
 
 ## Summary
 
