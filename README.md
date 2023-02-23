@@ -38,7 +38,7 @@ There was no difference in the results of the three models:
 
 Is our model ready to take to Vegas? Not exactly, not with my money anyway.  but I did make some significant discoveries that warrant further discovery
 
-- Recommendations for a future analysis. (10 points)
+- Recommendations for a future analysis
     - expand the data to include more years
     - figure out a way to adjust for player injuries
     - find distance from school to game location
